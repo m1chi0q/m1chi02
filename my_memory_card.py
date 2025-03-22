@@ -21,6 +21,7 @@ questions_list.append(Question('Основной язык в России', 'Р�
 questions_list.append(Question('2-1', '1', '-2', '3', '4'))
 questions_list.append(Question('2*1', '2', '-2', '3', '4'))
 questions_list.append(Question('2+1', '3', '-2', '-3', '4'))
+questions_list.append(Question('2+98', '3', '-2', '100', '4'))
 
 app = QApplication([])
 
